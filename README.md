@@ -66,6 +66,7 @@ All of these provide more features than the language yet remain compatible. Node
 * [Q](https://github.com/kriskowal/q) - One of the original implementations. Long stack traces and other goodies.
 * [then/promise](https://github.com/then/promise) - Small with `nodeify`, `denodify` and `done()` additions.
 * [when.js](https://github.com/cujojs/when) - Packed with control flow, functional, and utility methods.
+* [rubico](https://github.com/a-synchronous/rubico) - 🏞 [a]synchronous functional syntax
 
 
 ### Fallbacks
